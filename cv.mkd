@@ -1,19 +1,78 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+[Área de Semântica]
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
-
-CV
+Weslley Pereira Araujo
 ==
+__Sexo__ : Masculino <br />
+__Nascimento__: 05/10/1993 <br />
+__End__: Dona Leopoldina N°: 825 Ipiranga – São Paulo – SP (Fácil acesso ao metro Sacomã) __Tel__: (11) 96539­6299 <br />
+__Email__: weslleyaraujo20@gmail.com <br />
 
-[Preencha aqui o seu cv]
+Skills
+==
+­ __HTML__ ( avançado )<br />
+­ __CSS__ ( avançado )<br />
+­ __Javascript__ ( intermediário )<br />
+­ __SASS__/Compass ( intermediário )<br /> ­ GIT ( básico )<br />
+­ __Codeigniter__ ( intermediário )<br />
+­ __SQL__ ( básico ) <br />
+­ __PHP__ ( intermediário ) <br />
+­ __Wordpress__ ( intermediário ) <br />
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Experiência Profissional
+==
+__Ultrahaus – Desenvolvedor Front­End__ <br />
+__Início em 01/2013 até 07/2013__<br />
+__Atividades exercidas__<br />
+<ul>
+	<li>Desenvolvimento HTML/CSS</li>
+	<li>Modularização e aplicações JS</li>
+	­<li>CSS escalável utilizando SASS / Compass</li>
+	­<li>Aplicações IOS ( utilizando Phonegap )</li>
+	­<li>Responsive Design</li>
+	­<li>Desenvovilmento e integrações back­end utilizando o framewok Codeigniter</li>
+</ul>
+
+__Original Media – Desenvolvedor de Interfaces Pleno__<br />
+__Início em 11/2012 até 01/2013__<br />
+__Atividades exercidas__<br />
+­<ul>
+	<li> Desenvolvimento HTML/CSS ­ Integrações e aplicações JS<br /></li>
+</ul>
+
+__Arte e Tecnologia – Analista / Programador PHP__<br />
+__Início em 03/2012 até 10/2012__<br />
+__Atividades exercidas__<br />
+­ <ul>
+	<li>Desenvovilmento e integrações back­end utilizando o framewok Codeigniter ­ Migração de sistemas existentes para o framework Codeigniter<br /></li>
+</ul>
+
+__DCS Brasil – Desenvolvedor front/back­end__<br />
+__Início em 07/2010 até 03/2012__<br />
+__Atividades exercidas__<br />
+<ul>
+	<li>Desenvolvimento HTML/CSS<br /></li>
+	<li>Desenvolvimento e manutenção de portais e sistemas em PHP<br /></li>
+</ul>
+
+Formação Acadêmica / Palestras<br />
+==
+__Web day ­ 2013__<br />
+( AppCache, DevOps, Organizando o JavaScript )<br />
+­__Sampa Js ­ 2013__<br />
+( Meteor, Extreme Performance, Angular JS , Socket IO, AppCache )<br />
+­__Facebook World Hack ­ 2012__<br />
+( Open graph, APIs do Facebook, SDK Móvel )<br />
+­__Introdução Lógica de Programação – Concluído em 2011 (Impacta Tecnologia – São Paulo ­ SP)__<br />
+__XHTML / Tableless ­ Concluído em 2011 (Impacta Tecnologia – São Paulo ­ SP)__<br />
+­__Ensino Médio Completo ­ Concluído em 2010 (Maria Regina – São Bernardo do Campo ­ SP)__<br />
+­__Técnico em Informática ­ Concluído em 2009 (Macrobyte ­ São Bernardo do Campo ­ SP)__<br />
+­__Inglês intermediário ­ Concluído em 2009 (Macrobyte ­ São Bernardo do Campo ­ SP)__<br />
+<br />
+Portfólio
+==
+No endereço abaixo você vai encontrar o meu portfólio online , lá você vai saber um pouco mais sobre mim e conhecer alguns dos meus trabalhos recentes.<br />
+<a href="http://weslleydeveloper.com/" target="_blank">http://weslleydeveloper.com/</a><br />
+<br />
